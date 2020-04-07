@@ -1,5 +1,7 @@
 The app: https://sahirmpatel.github.io/react-recipe-app/
 
+API used: https://developer.edamam.com/edamam-recipe-api
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
