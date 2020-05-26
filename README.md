@@ -1,4 +1,7 @@
-The app: https://sahirmpatel.github.io/react-recipe-app/
+🔗 https://sahirmpatel.github.io/Reactjs-recipeapp/
+
+
+older version: https://sahirmpatel.github.io/react-recipe-app/
 
 API used: https://developer.edamam.com/edamam-recipe-api
 
